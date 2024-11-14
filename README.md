@@ -1,6 +1,4 @@
-HI, I am ANISH PATI
-Welcome to my GitHub Profile!!!
-<!---
-anishpati1/anishpati1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>ANISH PATI</h1>
+<main>
+Welcome to my Profile, here you will find my intereset and passion through my projects. Feel free to Make changes to those projects and make them more better and user friendly. 
+</main>
